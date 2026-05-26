@@ -1,106 +1,122 @@
-<!-- ================= BLACK THEME PROFILE ================= -->
+<!-- ================= NEON CYBERPUNK PROFILE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=Uday%20Anand&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00fff7&height=220&section=header&text=UDAY%20ANAND&fontSize=45&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;Automation+Builder;Finance+Dashboard+Creator;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFF7&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Automation+Engineer;Cyberpunk+Builder;Neon+Code+Architect" />
 </p>
 
 ---
 
-## ⚫ ABOUT ME
+## ⚡ SYSTEM STATUS
 
-```text
-> Turning data into insights.
-> Automating boring tasks.
-> Building real-world Python systems.
-> Focused on clean, scalable code.
+```bash
+> INITIALIZING PROFILE...
+> LOADING SKILLS MATRIX...
+> STATUS: ACTIVE ⚡
+> MODE: CYBERPUNK DEVELOPER
+> FOCUS: DATA + AUTOMATION + SYSTEM DESIGN
 ```
 
 ---
 
-## ⚡ TECH STACK
+## 🧬 ABOUT ME
+
+```text
+> I build systems that think.
+> I automate what others repeat.
+> I turn raw data into intelligence.
+> I design code like architecture.
+```
+
+---
+
+## 🔮 TECH MATRIX
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00fff7)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00fff7)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00fff7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=plotly&logoColor=00fff7)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00fff7)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00fff7)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00fff7)
 
 </p>
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 NEURAL STATS CORE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00fff7&icon_color=00fff7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayanand7&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayanand7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECT
+## 🐍 CONTRIBUTION GRID (NEON MODE)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 FEATURED SYSTEM
 
 ### 💹 Financial & Business Data Dashboard
 
 ```text
-Python-based analytics system:
-- Data generation
-- Data cleaning
-- Visualization dashboards
+SYSTEM TYPE: Python Analytics Engine
+CAPABILITIES:
+- Data generation engine
+- Cleaning & preprocessing module
+- Visualization dashboard core
 - Automated reporting system
+- Business intelligence layer
 ```
 
 🔗 https://github.com/udayanand7/finance
 
 ---
 
-## 🏆 ACHIEVEMENTS STYLE (OPTIONAL LOOK)
+## 🧠 ACHIEVEMENT MATRIX
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT NODE
 
 <p align="center">
-  <a href="https://github.com/udayanand7">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/udayanand7">
+  <img src="https://img.shields.io/badge/ACCESS_GITHUB-00fff7?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:0f0f0f&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <b>⚡ Built with discipline. Powered by Python. ⚡</b>
+  <b>⚡ SYSTEM ONLINE • CODE IS ALIVE • BUILDING THE FUTURE ⚡</b>
 </p>
 
-<!-- ================= END PROFILE ================= -->
+<!-- ================= END NEON CYBERPUNK PROFILE ================= -->
