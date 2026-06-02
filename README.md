@@ -16,8 +16,7 @@
 > INITIALIZING PROFILE...
 > LOADING SKILLS MATRIX...
 > STATUS: ACTIVE ⚡
-> MODE: CYBERPUNK DEVELOPER
-> FOCUS: DATA + AUTOMATION + SYSTEM DESIGN
+
 ```
 
 ---
@@ -41,7 +40,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00fff7)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00fff7)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=plotly&logoColor=00fff7)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00fff7)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00fff7)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00fff7)
 
