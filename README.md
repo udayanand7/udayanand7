@@ -1,7 +1,7 @@
 <!-- ================= NEON CYBERPUNK PROFILE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00fff7&height=220&section=header&text=UDAY%20ANAND&fontSize=45&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00fff7&height=220&section=header&text=UDAY%20ANAND%20Angirekula&fontSize=45&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
