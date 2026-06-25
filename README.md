@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Uday Anand
+# Hi there 👋, I'm Uday Anand Angirekula
 
 <div align="center">
 
