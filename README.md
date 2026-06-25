@@ -1,120 +1,261 @@
-<!-- ================= NEON CYBERPUNK PROFILE ================= -->
+# Hi there 👋, I'm Uday Anand
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00fff7&height=220&section=header&text=UDAY%20ANAND&fontSize=45&fontColor=00fff7&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFF7&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Engineer" />
-</p>
+### 🚀 Python Developer | 🧪 QA Tester | 🤖 AI Application Builder
 
----
+Building intelligent applications, testing reliable systems, and automating real-world solutions.
 
-## ⚡ SYSTEM STATUS
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;QA+Tester;AI+Application+Builder;Automation+Enthusiast;Flask+Developer;Always+Learning+New+Technologies" />
 
-```bash
-> INITIALIZING PROFILE...
-> LOADING SKILLS MATRIX...
-> STATUS: ACTIVE ⚡
-
-```
+</div>
 
 ---
 
-## 🧬 ABOUT ME
+## 👨‍💻 About Me
+
+* 🔭 Currently building AI-powered applications with Python
+* 🧪 Passionate about Software Testing & Quality Assurance
+* 🤖 Interested in AI, Automation & Machine Learning
+* 🌱 Learning advanced backend development and testing practices
+* ⚡ Love turning ideas into practical software solutions
+* 🎯 Goal: Build impactful products that solve real problems
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode,sqlite" />
+</p>
+
+### Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+* Pandas
+* NumPy
+* Matplotlib
+* CNN
+* MobileNetV2
+* Anthropic Claude API
+
+### QA & Testing
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* API Testing
+* Bug Reporting
+* Test Case Design
+* SDLC & STLC
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ATS Resume Analyzer
+
+### AI-Powered Resume Screening & Job Matching Platform
+
+Built using **Python, Flask, Anthropic Claude API, PyPDF2, and python-docx**
+
+### Key Features
+
+✅ Resume scoring and evaluation
+
+✅ ATS compatibility analysis
+
+✅ Job description matching
+
+✅ Skill gap identification
+
+✅ Seniority detection
+
+✅ Actionable improvement recommendations
+
+✅ PDF, DOCX & TXT support
+
+✅ Web Interface + CLI Support
+
+### Tech
 
 ```text
-> I build systems that think.
-> I automate what others repeat.
-> I turn raw data into intelligence.
-> I design code like architecture.
+Python
+Flask
+Claude API
+PyPDF2
+python-docx
+JSON Reporting
 ```
 
----
-
-## 🔮 TECH MATRIX
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00fff7)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00fff7)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00fff7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=plotly&logoColor=00fff7)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00fff7)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00fff7)
-
-</p>
+🔗 Repository:
+https://github.com/udayanand7/resume-analyzer
 
 ---
 
-## 📊 NEURAL STATS CORE
+## 🌿 Plant Leaf Disease Detection
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00fff7&icon_color=00fff7" />
-</p>
+### Deep Learning Disease Classification System
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayanand7&theme=tokyonight&hide_border=true" />
-</p>
+Built using CNN and MobileNetV2 Transfer Learning.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Highlights
 
----
-
-## 🐍 CONTRIBUTION GRID 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚀 FEATURED SYSTEM
-
-### 💹 Financial & Business Data Dashboard
+* 25 Disease Categories
+* 87%+ Accuracy
+* Transfer Learning
+* Image Classification
+* Agricultural AI Application
 
 ```text
-SYSTEM TYPE: Python Analytics Engine
-CAPABILITIES:
-- Data generation engine
-- Cleaning & preprocessing module
-- Visualization dashboard core
-- Automated reporting system
-- Business intelligence layer
+Image Processing
+→ CNN Model
+→ MobileNetV2
+→ Disease Prediction
 ```
 
-🔗 https://github.com/udayanand7/finance
+---
+
+## ☁️ SKYE Weather Application
+
+### Modern Desktop Weather Dashboard
+
+A responsive weather application built with Python and Tkinter.
+
+### Features
+
+* Real-Time Weather Data
+* Hourly Forecast
+* 7-Day Forecast
+* Air Quality Index
+* Temperature Conversion
+* Multi-City Search
+* Modern Desktop UI
+
+```text
+WeatherAPI
+Tkinter
+Threading
+Python
+```
 
 ---
 
-## 🧠 ACHIEVEMENT MATRIX
+## 🔐 VAULT Password Manager
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+### Secure AES-256-GCM Password Manager
+
+### Features
+
+* AES-256-GCM Encryption
+* Password Generator
+* Password Strength Analysis
+* SQLite Storage
+* Category Management
+* Master Password Protection
+
+```text
+Python
+SQLite
+AES-256-GCM
+Tkinter
+```
+
+🔗 Repository:
+https://github.com/udayanand7/Password-Manger
 
 ---
 
-## 🌐 CONNECT NODE
+## 📒 Pallu-Katha
 
-<p align="center">
+### Digital Dairy Account Management Application
+
+Designed to simplify dairy business operations.
+
+### Features
+
+* Customer Records
+* Daily Milk Tracking
+* Billing Management
+* Transaction History
+* Reporting System
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udayanand7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udayanand7&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ Python Development
+✓ AI Applications
+✓ Flask Projects
+✓ Software Testing
+✓ Automation
+✓ Machine Learning
+✓ Open Source Contributions
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/udayanand7">
-  <img src="https://img.shields.io/badge/ACCESS_GITHUB-00fff7?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:0f0f0f&height=120&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⚡ SYSTEM ONLINE • CODE IS ALIVE • BUILDING THE FUTURE ⚡</b>
-</p>
+### ⭐ "Code. Test. Improve. Repeat."
 
-<!-- ================= END NEON CYBERPUNK PROFILE ================= -->
+🚀 Python Developer | QA Tester | AI Builder
+
+</div>
