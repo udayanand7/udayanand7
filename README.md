@@ -94,9 +94,6 @@ python-docx
 JSON Reporting
 ```
 
-🔗 Repository:
-https://github.com/udayanand7/resume-analyzer
-
 ---
 
 ## 🌿 Plant Leaf Disease Detection
@@ -167,8 +164,7 @@ AES-256-GCM
 Tkinter
 ```
 
-🔗 Repository:
-https://github.com/udayanand7/Password-Manger
+
 
 ---
 
