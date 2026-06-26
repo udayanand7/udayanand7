@@ -1,3 +1,4 @@
+````markdown
 # Hi there 👋, I'm Uday Anand Angirekula
 
 <div align="center">
@@ -12,179 +13,82 @@ Building intelligent applications, testing reliable systems, and automating real
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🔭 Currently building AI-powered applications with Python
-* 🧪 Passionate about Software Testing & Quality Assurance
-* 🤖 Interested in AI, Automation & Machine Learning
-* 🌱 Learning advanced backend development and testing practices
-* ⚡ Love turning ideas into practical software solutions
-* 🎯 Goal: Build impactful products that solve real problems
+- 🔭 Currently building AI-powered applications with Python
+- 🧪 Passionate about Software Testing & Quality Assurance
+- 🤖 Interested in Artificial Intelligence & Automation
+- 🌱 Learning advanced backend development and testing practices
+- 💡 Enjoy building practical software solutions for real-world problems
+- 🎯 Goal: To build impactful products and contribute to open source
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming & Development
+### 💻 Programming & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode,sqlite" />
 </p>
 
-### Data Science & AI
+### 🤖 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-* Pandas
-* NumPy
-* Matplotlib
-* CNN
-* MobileNetV2
-* Anthropic Claude API
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- CNN
+- MobileNetV2
+- Anthropic Claude API
 
-### QA & Testing
+### 🧪 QA & Testing
 
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* API Testing
-* Bug Reporting
-* Test Case Design
-* SDLC & STLC
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- API Testing
+- Test Case Design
+- Bug Reporting
+- SDLC & STLC
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 ATS Resume Analyzer
+An AI-powered resume screening and job matching platform built with Python and Flask. It analyzes resumes for ATS compatibility, compares them with job descriptions, identifies skill gaps, and provides intelligent recommendations for improvement.
 
-### AI-Powered Resume Screening & Job Matching Platform
-
-Built using **Python, Flask, Anthropic Claude API, PyPDF2, and python-docx**
-
-### Key Features
-
-✅ Resume scoring and evaluation
-
-✅ ATS compatibility analysis
-
-✅ Job description matching
-
-✅ Skill gap identification
-
-✅ Seniority detection
-
-✅ Actionable improvement recommendations
-
-✅ PDF, DOCX & TXT support
-
-✅ Web Interface + CLI Support
-
-### Tech
-
-```text
-Python
-Flask
-Claude API
-PyPDF2
-python-docx
-JSON Reporting
-```
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/udayanand7/resume-analyzer
 
 ---
 
 ## 🌿 Plant Leaf Disease Detection
-
-### Deep Learning Disease Classification System
-
-Built using CNN and MobileNetV2 Transfer Learning.
-
-### Highlights
-
-* 25 Disease Categories
-* 87%+ Accuracy
-* Transfer Learning
-* Image Classification
-* Agricultural AI Application
-
-```text
-Image Processing
-→ CNN Model
-→ MobileNetV2
-→ Disease Prediction
-```
+A deep learning project that detects and classifies plant leaf diseases using CNN and MobileNetV2. The application helps identify diseases accurately through image classification techniques.
 
 ---
 
 ## ☁️ SKYE Weather Application
-
-### Modern Desktop Weather Dashboard
-
-A responsive weather application built with Python and Tkinter.
-
-### Features
-
-* Real-Time Weather Data
-* Hourly Forecast
-* 7-Day Forecast
-* Air Quality Index
-* Temperature Conversion
-* Multi-City Search
-* Modern Desktop UI
-
-```text
-WeatherAPI
-Tkinter
-Threading
-Python
-```
+A desktop weather dashboard developed with Python and Tkinter that provides real-time weather information, forecasts, air quality details, and supports searching multiple cities.
 
 ---
 
 ## 🔐 VAULT Password Manager
+A secure password management application that uses AES-256-GCM encryption for storing credentials safely. It includes password generation, strength analysis, SQLite storage, and master password authentication.
 
-### Secure AES-256-GCM Password Manager
-
-### Features
-
-* AES-256-GCM Encryption
-* Password Generator
-* Password Strength Analysis
-* SQLite Storage
-* Category Management
-* Master Password Protection
-
-```text
-Python
-SQLite
-AES-256-GCM
-Tkinter
-```
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/udayanand7/Password-Manger
 
 ---
 
 ## 📒 Pallu-Katha
-
-### Digital Dairy Account Management Application
-
-Designed to simplify dairy business operations.
-
-### Features
-
-* Customer Records
-* Daily Milk Tracking
-* Billing Management
-* Transaction History
-* Reporting System
+A dairy account management application designed to simplify daily dairy business operations. It manages customer records, milk collection, billing, transaction history, and report generation.
 
 ---
 
@@ -230,8 +134,8 @@ Designed to simplify dairy business operations.
 
 ```text
 ✓ Python Development
-✓ AI Applications
-✓ Flask Projects
+✓ Artificial Intelligence
+✓ Flask Applications
 ✓ Software Testing
 ✓ Automation
 ✓ Machine Learning
@@ -254,8 +158,11 @@ Designed to simplify dairy business operations.
 
 <div align="center">
 
-### ⭐ "Code. Test. Improve. Repeat."
+### ⭐ Code • Test • Build • Improve
 
-🚀 Python Developer | QA Tester | AI Builder
+**Python Developer | QA Tester | AI Application Builder**
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </div>
+````
