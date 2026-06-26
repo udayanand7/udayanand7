@@ -1,46 +1,42 @@
 ````markdown
-<h1 align="center">Hi 👋, I'm Uday Anand Angirekula</h1>
+# Hi there 👋, I'm Uday Anand Angirekula
 
-<h3 align="center">
-Python Developer • QA Tester • AI Application Builder
-</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent applications with Python, AI, and Automation.
-</p>
+### 🚀 Python Developer | 🧪 QA Tester | 🤖 AI Application Builder
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;QA+Engineer;AI+Application+Builder;Flask+Developer;Automation+Enthusiast;Always+Learning..." />
-</p>
+Building intelligent applications, testing reliable systems, and automating real-world solutions.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=udayanand7&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/udayanand7?style=social"/>
-<img src="https://img.shields.io/github/stars/udayanand7?affiliations=OWNER&style=social"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;QA+Tester;AI+Application+Builder;Automation+Enthusiast;Flask+Developer;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 💻 Python Developer passionate about building useful software.
-- 🤖 Developing AI-powered applications using Python & Flask.
-- 🧪 Interested in Software Testing & Quality Assurance.
-- 🌱 Currently learning Backend Development and Machine Learning.
-- 🚀 Love solving real-world problems through automation.
-- 🎯 Goal: Build impactful software and contribute to Open Source.
+- 🔭 Currently building AI-powered applications with Python
+- 🧪 Passionate about Software Testing & Quality Assurance
+- 🤖 Interested in AI, Automation & Machine Learning
+- 🌱 Learning advanced backend development and testing practices
+- ⚡ Love turning ideas into practical software solutions
+- 🎯 Goal: Build impactful products that solve real-world problems
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 💻 Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,git,github,vscode,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,flask,git,github,vscode,sqlite" />
 </p>
 
-### AI & Data
+### 🤖 AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
 - Python
 - Pandas
@@ -48,9 +44,9 @@ Building intelligent applications with Python, AI, and Automation.
 - Matplotlib
 - CNN
 - MobileNetV2
-- Claude API
+- Anthropic Claude API
 
-### Testing
+### 🧪 QA & Testing
 
 - Manual Testing
 - Functional Testing
@@ -58,49 +54,79 @@ Building intelligent applications with Python, AI, and Automation.
 - Smoke Testing
 - API Testing
 - Bug Reporting
-- SDLC
-- STLC
+- Test Case Design
+- SDLC & STLC
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **ATS Resume Analyzer** | AI-powered resume screening and ATS compatibility checker built using Python, Flask, and Claude API. |
-| 🌿 **Plant Leaf Disease Detection** | Deep learning application for detecting plant diseases using CNN and MobileNetV2. |
-| ☁️ **SKYE Weather App** | Desktop weather application with real-time forecasts and air quality information. |
-| 🔐 **VAULT Password Manager** | Secure AES-256 password manager with encrypted SQLite storage. |
-| 📒 **Pallu-Katha** | Dairy account management application for customer records, billing, and reporting. |
+## 🤖 ATS Resume Analyzer
+An AI-powered resume screening and job matching platform that analyzes resumes for ATS compatibility, compares them with job descriptions, identifies skill gaps, and provides intelligent recommendations using Python, Flask, and the Claude API.
+
+🔗 Repository:  
+https://github.com/udayanand7/resume-analyzer
 
 ---
 
-# 📈 GitHub Stats
+## 🌿 Plant Leaf Disease Detection
+A deep learning application that detects and classifies plant leaf diseases using CNN and MobileNetV2 transfer learning, helping improve agricultural diagnostics through accurate image classification.
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-<p align="center">
+## ☁️ SKYE Weather Application
+A modern desktop weather application built with Python and Tkinter that delivers real-time weather information, hourly and weekly forecasts, air quality data, and multi-city search.
+
+---
+
+## 🔐 VAULT Password Manager
+A secure desktop password manager that protects user credentials with AES-256-GCM encryption while offering password generation, strength analysis, and encrypted SQLite storage.
+
+🔗 Repository:  
+https://github.com/udayanand7/Password-Manger
+
+---
+
+## 📒 Pallu-Katha
+A dairy account management application developed to simplify daily dairy operations by managing customer records, milk collection, billing, transactions, and business reports.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=udayanand7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayanand7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayanand7&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=udayanand7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayanand7&theme=tokyo-night&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
@@ -108,31 +134,35 @@ Building intelligent applications with Python, AI, and Automation.
 
 ```text
 ✓ Python Development
-✓ Artificial Intelligence
-✓ Flask Applications
+✓ AI Applications
+✓ Flask Projects
 ✓ Software Testing
 ✓ Automation
 ✓ Machine Learning
-✓ Open Source
+✓ Open Source Contributions
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/udayanand7">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Code • Build • Test • Improve • Repeat ⭐
-</h3>
+<div align="center">
 
-<p align="center">
-Thanks for visiting my profile! 🚀
-</p>
+### ⭐ "Code. Test. Improve. Repeat."
+
+🚀 Python Developer | QA Tester | AI Application Builder
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
 ````
