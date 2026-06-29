@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Python Developer | 🧪 QA Tester | 🤖 AI Application Builder
+### 🚀 Python Developer | 🤖 AI Application Builder
 
 Building intelligent applications, testing reliable systems, and automating real-world solutions.
 
@@ -15,7 +15,6 @@ Building intelligent applications, testing reliable systems, and automating real
 ## 👨‍💻 About Me
 
 * 🔭 Currently building AI-powered applications with Python
-* 🧪 Passionate about Software Testing & Quality Assurance
 * 🤖 Interested in AI, Automation & Machine Learning
 * 🌱 Learning advanced backend development and testing practices
 * ⚡ Love turning ideas into practical software solutions
@@ -43,17 +42,6 @@ Building intelligent applications, testing reliable systems, and automating real
 * CNN
 * MobileNetV2
 * Anthropic Claude API
-
-### QA & Testing
-
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* Smoke Testing
-* API Testing
-* Bug Reporting
-* Test Case Design
-* SDLC & STLC
 
 ---
 
