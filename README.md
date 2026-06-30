@@ -47,6 +47,17 @@ Building intelligent applications, testing reliable systems, and automating real
 
 # 🚀 Featured Projects
 
+## ⛽ FuelSense
+Smart Fuel & Vehicle Management Platform
+
+React TypeScript FastAPI Python SQLite TailwindCSS License
+
+Track fuel expenses • Plan trips • Monitor vehicle health • Find nearby petrol pumps • Analyze fuel efficiency
+
+## ✨ Overview
+FuelSense is a modern full-stack SaaS web application designed for Indian vehicle owners.
+
+Manage your vehicles, calculate fuel expenses, monitor mileage, receive maintenance reminders, view live fuel prices, and discover nearby fuel stations—all from one beautiful dashboard.
 ## 🤖 ATS Resume Analyzer
 
 ### AI-Powered Resume Screening & Job Matching Platform
